@@ -1,0 +1,12 @@
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\bin\Debug\net6.0\CourseWorkLibrary.deps.json
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\bin\Debug\net6.0\CourseWorkLibrary.dll
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\bin\Debug\net6.0\CourseWorkLibrary.pdb
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\obj\Debug\net6.0\CourseWorkLibrary.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\obj\Debug\net6.0\CourseWorkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\obj\Debug\net6.0\CourseWorkLibrary.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\obj\Debug\net6.0\CourseWorkLibrary.AssemblyInfo.cs
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\obj\Debug\net6.0\CourseWorkLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\obj\Debug\net6.0\CourseWorkLibrary.dll
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\obj\Debug\net6.0\refint\CourseWorkLibrary.dll
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\obj\Debug\net6.0\CourseWorkLibrary.pdb
+C:\Users\Антон\source\repos\TestProgramm\CourseWorkLibrary\obj\Debug\net6.0\ref\CourseWorkLibrary.dll

@@ -1,0 +1,9 @@
+C:\Users\Антон\source\repos\TestProgramm\TestProgramm\bin\Debug\TestProgramm.exe.config
+C:\Users\Антон\source\repos\TestProgramm\TestProgramm\bin\Debug\TestProgramm.exe
+C:\Users\Антон\source\repos\TestProgramm\TestProgramm\bin\Debug\TestProgramm.pdb
+C:\Users\Антон\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Антон\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.exe
+C:\Users\Антон\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.pdb
+C:\Users\Антон\source\repos\TestProgramm\TestProgramm\obj\Debug\TestProgramm.csproj.ResolveComReference.cache
